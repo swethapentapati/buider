@@ -1,0 +1,2 @@
+# buider
+static and dynamic
